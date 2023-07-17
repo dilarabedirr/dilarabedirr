@@ -84,9 +84,8 @@
 	
 ![GitHub Streak](https://streak-stats.demolab.com?user=dilarabedirr&count_private=true&theme=algolia&border_radius=20)
 
- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dilarabedirr/count.svg" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dilarabedirr&style=for-the-badge" />
 </p>
 
 </div>
