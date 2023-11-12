@@ -1,7 +1,3 @@
-<a>
-	<img src="https://github-banner.vercel.app/api/social/?heading=Welcome+to+my+Github&subheading=<p>Hi%2C+I%27m+Dilara.</p>%0AI+am+a+backend+software+developer.+I+love+to+learn+and+I+am+happy+when+I+learn.+I%27m+developing+basic+springboot+projects+with+Java.&social=%7B%7D&alignItems=center&headingStyles=%7B%22fontSize%22%3A45%2C%22textAlign%22%3A%22start%22%2C%22color%22%3A%22%22%2C%22thirdDim%22%3Afalse%2C%22lineHeight%22%3A%22%22%2C%22fontWeight%22%3A%22700%22%7D&subheadingStyles=%7B%22fontSize%22%3A15%2C%22textAlign%22%3A%22center%22%2C%22color%22%3A%22%22%2C%22thirdDim%22%3Afalse%2C%22lineHeight%22%3A%22%22%2C%22fontWeight%22%3A%22500%22%7D&socialStyles=%7B%22fontSize%22%3A14%2C%22color%22%3A%22%22%2C%22iconColor%22%3A%22%22%2C%22lineHeight%22%3A%221%22%2C%22fontWeight%22%3A%22500%22%7D&background=%7B%22color%22%3A%22%22%2C%22image%22%3A%22%22%2C%22size%22%3A%22contain%22%2C%22repeat%22%3A%22no-repeat%22%2C%22position%22%3A%22center%22%7D&border=%7B%22size%22%3A0%2C%22color%22%3A%22%22%2C%22radius%22%3A8%7D&avatarStyles=%7B%22height%22%3A320%2C%22width%22%3A250%2C%22reverse%22%3Afalse%2C%22name%22%3A%22%22%2C%22hide%22%3Afalse%7D&gradient=true" width="100%" height="300" />
-</a>
-
 </p>
 <h2 style="color: #44AEFB">:+1: Social Media</h2>
 <div align="center">
