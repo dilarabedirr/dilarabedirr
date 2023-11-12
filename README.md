@@ -1,13 +1,4 @@
-</p>
-<h2 style="color: #44AEFB">:+1: Social Media</h2>
-<div align="center">
-  <a href="https://medium.com/@dilarabedir" target="_blank" rel="noreferrer">
-      <img  alt="medium" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/394277/medium.svg"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dilarabedir/" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448234/linkedin.svg"/>
-  </a>
-</div>
+
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 
